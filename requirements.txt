@@ -1,0 +1,14 @@
+streamlit
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+ipywidgets
+biopython
+py3Dmol
+pandas
+stmol
+ipython-genutils
+requests
